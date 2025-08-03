@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday My Love ❤</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #000000;
+      color: #fff;
+      text-align: center;
+    }
+    #content {
+      padding: 20px;
+    }
+    .message {
+      max-width: 600px;
+      margin: auto;
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+    .gallery {
+      margin-top: 30px;
+    }
+    .gallery img {
+      width: 250px;
+      height: auto;
+      border-radius: 20px;
+      margin: 10px;
+      box-shadow: 0 0 10px #fff5;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="content">
+    <h1>Happy Birthday, My Love ❤</h1>
+    <div class="message">
+      <p>To the most beautiful girl I’ve ever known,</p>
+      <p>Every moment with you feels like a dream I never want to wake up from.  
+      Your smile lights up even the darkest of days, and your love fills my world with magic.</p>
+      <p>On this special day, I just want to remind you how much you mean to me.  
+      You’re not just my girlfriend you’re my home, my heart, my everything.</p>
+      <p>Here's to forever… together 💖</p>
+    </div>
+    <div class="gallery">
+      <img src="G:\mittu\WhatsApp Image 2025-08-02 at 23.34.52_093858d4.jpg" alt="Photo 1">
+      <img src="G:\mittu\WhatsApp Image 2025-08-02 at 22.54.47_10a61432.jpg" alt="Photo 2">
+      <img src="G:\mittu\WhatsApp Image 2025-08-02 at 22.51.25_e578ff45.jpg" alt="Photo 3">
+      <img src="G:\mittu\WhatsApp Image 2025-08-02 at 22.51.14_bf02da5f.jpg" alt="Photo5">
+      <img src="G:\mittu\WhatsApp Image 2025-08-02 at 22.51.00_7d8ba702.jpg" alt="Photo4">
+      <img src="G:\mittu\WhatsApp Image 2025-08-02 at 23.34.53_117a22e3.jpg" alt="Photo6">
+
+    </div>
+  </div>
+    </div> <!-- End of .gallery -->
+
+    <div class="after-gallery-text">
+      <p>
+        Love isn’t just about the grand gestures ....it’s in the quiet moments, the silly laughs, the warm hugs, and the way you hold my hand like I’m the most precious thing in the world.  </p>
+      <p>  Being with you has taught me that true love is soft, patient, and full of little miracles. </p>
+      <p>
+        With every heartbeat, I fall deeper in love with you. You make my world feel lighter, brighter, and more beautiful than I ever imagined possible.</p>
+      <p> No matter where life takes us, my heart will always be yours—and that’s a promise I’ll never break. 💕 </p>
+    
+    </div>
+</body>
+</html>
